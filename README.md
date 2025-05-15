@@ -1,6 +1,6 @@
 # Sales-Forecasting-Using-Models-for-Trend
 
-This project performs sales forecasting using historical sales data and Facebook's Prophet time series model.
+This project performs sales forecasting using historical sales data and Prophet time series model.
 
 📁 Dataset Description
 
