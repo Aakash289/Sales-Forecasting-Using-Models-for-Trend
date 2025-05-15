@@ -86,6 +86,7 @@ Sales are expected to grow by 20–35% from April to July.
 August sees a forecasted drop (~60%), marking the end of the seasonal high.
 
 📌 Business Insights
+
 📦 Inventory Planning
 Increase production and inventory in May–July to meet rising demand.
 
