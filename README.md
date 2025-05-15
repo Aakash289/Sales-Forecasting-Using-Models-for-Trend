@@ -62,7 +62,7 @@ It automatically detects trend changepoints and models seasonality without manua
 | **April 2025**  | Shows an upward trend; may indicate pre-peak buying season.                           |
 | **May 2025**    | Stable continuation; ideal for maintaining existing strategies.                       |
 | **June 2025**   | Significant growth with wider confidence interval — potential for high return.        |
-| **July 2025**   | **Highest forecasted sales** — critical month for promotions and inventory readiness. |
+| **July 2025**   | Highest forecasted sales — critical month for promotions and inventory readiness.     |
 | **August 2025** | Sharp predicted decline — plan exit promotions or clearance events.                   |
 
 📊 Visual Insights
