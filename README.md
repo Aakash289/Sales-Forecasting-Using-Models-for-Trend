@@ -5,8 +5,11 @@ This project performs sales forecasting using historical sales data and Prophet 
 📁 Dataset Description
 
 Date Range: March 2020 – February 2025
+
 Columns Included:
+
 Order ID
+
 Amount (Sales)
 
 Profit
