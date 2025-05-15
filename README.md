@@ -88,21 +88,25 @@ August sees a forecasted drop (~60%), marking the end of the seasonal high.
 📌 Business Insights
 
 📦 Inventory Planning
+
 Increase production and inventory in May–July to meet rising demand.
 
 Reduce orders in August and consider clearance strategies.
 
 📈 Marketing Strategy
+
 Focus ad spend in June and July.
 
 Launch retention and referral programs before the August slowdown.
 
 💰 Budgeting & Resource Allocation
+
 Allocate more sales team bandwidth and budget to Q2/Q3.
 
 Use Prophet’s confidence intervals to buffer risk in uncertain months.
 
 🧪 Strategic Testing
+
 Use lower forecast months like March or August to test new pricing or bundling strategies.
 
 
