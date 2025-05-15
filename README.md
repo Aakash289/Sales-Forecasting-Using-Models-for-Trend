@@ -27,6 +27,7 @@ Customer Info
 Location (State, City)
 
 🎯 Project Objective
+
 Forecast monthly sales for the next 6 months
 
 Visualize historical trends and seasonality
@@ -34,6 +35,7 @@ Visualize historical trends and seasonality
 Derive actionable insights for business decisions
 
 🧰 Libraries Used
+
 pandas – Data manipulation
 
 matplotlib, seaborn – Data visualization
@@ -41,6 +43,7 @@ matplotlib, seaborn – Data visualization
 prophet – Time series forecasting
 
 🧠 Model Used: Prophet
+
 Prophet is a robust time series model that handles:
 
 Trends
@@ -63,6 +66,7 @@ It automatically detects trend changepoints and models seasonality without manua
 | **August 2025** | Sharp predicted decline — plan exit promotions or clearance events.                   |
 
 📊 Visual Insights
+
 ✅ Monthly Sales Trend
 Historical sales show high volatility and seasonal spikes (likely from promotions or holiday cycles).
 
